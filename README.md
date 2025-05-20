@@ -1,2 +1,2 @@
 # Tasker-App
-Html, CSS and JavaScript to create simple -Tasker app- with localStorage
+HTML, CSS, and JavaScript to create a simple Tasker app with localStorage
